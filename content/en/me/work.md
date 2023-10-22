@@ -1,5 +1,6 @@
 ---
 title: "Work"
+date: 2023-10-22
 collapsible_toc: true
 weight : 2
 ---
