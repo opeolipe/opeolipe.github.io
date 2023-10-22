@@ -22,12 +22,6 @@ jobs:
         hugo-version: 'latest'
         extended: true
 
-    - name: Setup public
-      run: git worktree add -B main ./public origin/main
-
-    - name: Clean public
-      run: rm -rf ./public/*
-
     - name: Build Hugo site
       run: hugo --baseURL https://opeolipe.github.io/ --minify --environment production
 
