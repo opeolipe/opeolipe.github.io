@@ -1,5 +1,5 @@
 ---
-title: "Google Meet Update"
+title: "Impactful Google Meet Update"
 date: 2022-09-22
 toc: false
 ---
