@@ -12,8 +12,7 @@ I have been a Product Manager for Mekari for a year and I mostly spend my time o
 
 On August 2022, I noticed that Google Meet had a small update on the attendees’ list. It now divides the attendance list into two sections: those who are already in the meeting room and those who have been invited but have not joined yet.
 
-![Google Meet Update](/googlemeet.png)
-
+<img src="/googlemeet.png" alt="Google Meet Update" width="250"/>
 
 When I lead meetings, it’s common for me to have a lot of attendees so this update is great! It makes it much easier to keep up with who has shown up and who hasn’t.
 
