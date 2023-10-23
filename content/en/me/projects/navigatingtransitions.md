@@ -6,6 +6,8 @@ toc : false
 
 ## From layoffs to teaching: How I helped others upskill during the pandemic
 
+<div style="text-align: justify;">
+
 During my break period from full-time employment, I had the opportunity to teach several online classes in digital marketing and business intelligence. These classes, attended by a total of XX individuals, allowed me to share my expertise and insights with a broader audience.
 
 The first class I taught was "Belajar Digital Ads Bareng Gojek" (Learning Digital Ads with Gojek). This class marked a significant turning point in my career. After being laid off from my previous job, I decided to take a year-long break. During this time, I dedicated myself to assisting fresh graduates and individuals looking to transition into careers in digital marketing, data analysis, or business intelligence.
@@ -51,3 +53,6 @@ Through these teaching experiences, I was able to reach a wide range of learners
 
 
 - [Glints : BI Workshop: Transforming Raw Data to Powerful Insights Batch II, June 3 – 5, 2021](https://glints.com/id/en/expert-class/bi-workshop-transforming-raw-data-to-powerful-insights-batch-ii/1lAkGAbQ)
+
+
+</div>

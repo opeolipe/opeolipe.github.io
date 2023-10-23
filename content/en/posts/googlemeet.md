@@ -7,6 +7,8 @@ toc: false
 
 ## A SIMPLE YET IMPACTFUL GOOGLE MEET UPDATE
 
+<div style="text-align: justify;">
+
 
 I have been a Product Manager for Mekari for a year and I mostly spend my time on Google Workspace. The company uses the tool for cloud collaboration and Google Meet for online discussions.
 
@@ -24,7 +26,10 @@ Another good idea to have would be an alert button for participants at the start
 
 Other wish lists that I would like to have :
 
-Easy access to Google Docs minutes of the meeting while we’re in the meeting room
-Rejection reason details on the also-invited list
-Automatically accept regular meetings based on past behavior
+1. Easy access to Google Docs minutes of the meeting while we’re in the meeting room
+2. Rejection reason details on the also-invited list
+3. Automatically accept regular meetings based on past behavior
+
 I am eagerly looking forward to Google Meet’s next update, hoping that my wish list will come true. I believe they go through a lot of discovery to decide what is the most impactful feature update.
+
+</div>

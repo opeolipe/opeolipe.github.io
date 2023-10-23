@@ -5,6 +5,9 @@ toc: false
 ---
 
 ## Pengalaman Pertama Menciptakan Game
+
+<div style="text-align: justify;">
+
 Desember 2020, saya terlibat dalam acara [Hour of Code](https://hourofcode.com/id/events/all/id) yang diselenggarakan oleh [Generation Girl](https://www.generationgirl.org/). Acara ini menawarkan kelas coding untuk pemula yang berlangsung selama satu jam dan tentunya gratis.
 
 ### Tiga Level Kelas Coding:
@@ -17,3 +20,5 @@ Dari ketiga kelas tersebut, saya mencoba Intermediate Class, di mana saya mencip
 Kesimpulannya, kelas coding ini seru dan menarik. Namun, untuk membuat game, mungkin saya akan melakukannya sebagai hobi saat waktu luang.
 
 [Tes game yang saya buat di sini!](https://studio.code.org/projects/spritelab/SEHIF4jSNNezbJfpsZ4fzjb0pX7XxvG7risDw208AM0)
+
+</div>
