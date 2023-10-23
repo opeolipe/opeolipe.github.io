@@ -24,6 +24,9 @@ jobs:
 
     - name: Build Hugo site
       run: hugo --baseURL https://opeolipe.github.io/ --minify --environment production
+   
+    - name: Add CNAME
+      run: echo "carolineratuolivia.com" > ./public/CNAME
 
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
